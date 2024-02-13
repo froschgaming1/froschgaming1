@@ -1,3 +1,12 @@
+img/cat-0.jpg
+img/cat-1.jpg
+img/cat-2.jpg
+img/cat-3.jpg
+img/cat-4.jpg
+img/cat-5.jpg
+img/cat-yes.jpg
+img/cat-yes.jpg
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
